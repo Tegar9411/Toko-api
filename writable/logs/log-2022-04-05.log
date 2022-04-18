@@ -1,0 +1,186 @@
+CRITICAL - 2022-04-05 05:16:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:18:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:19:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:20:30 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:20:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:25:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:25:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:28:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:34:05 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:36:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:40:11 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:46:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:46:27 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 05:46:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:03:12 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:03:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:14:36 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:14:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:17:18 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:17:32 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:17:36 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:17:39 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:19:44 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:19:50 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:19:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:19:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:20:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:20:37 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:20:49 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:21:04 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}
+CRITICAL - 2022-04-05 06:22:00 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xamppp\htdocs\toko-api\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xamppp\htdocs\toko-api\public\index.php(28): require('C:\\xamppp\\htdoc...')
+#4 {main}

@@ -1,0 +1,430 @@
+CRITICAL - 2022-04-11 22:38:08 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:40:28 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:42:24 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:46:41 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:53:37 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:53:40 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-04-11 22:53:42 --> syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']'
+#0 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xamppp\\htdoc...')
+#1 C:\xamppp\htdocs\toko-api\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-11 22:54:53 --> No database selected
+CRITICAL - 2022-04-11 22:54:53 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(23): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:54:56 --> No database selected
+CRITICAL - 2022-04-11 22:54:56 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(23): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:54:59 --> No database selected
+CRITICAL - 2022-04-11 22:54:59 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(23): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:14 --> No database selected
+CRITICAL - 2022-04-11 22:55:14 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:15 --> No database selected
+CRITICAL - 2022-04-11 22:55:15 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:16 --> No database selected
+CRITICAL - 2022-04-11 22:55:16 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:16 --> No database selected
+CRITICAL - 2022-04-11 22:55:16 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:16 --> No database selected
+CRITICAL - 2022-04-11 22:55:16 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:17 --> No database selected
+CRITICAL - 2022-04-11 22:55:17 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:17 --> No database selected
+CRITICAL - 2022-04-11 22:55:17 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:17 --> No database selected
+CRITICAL - 2022-04-11 22:55:17 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:18 --> No database selected
+CRITICAL - 2022-04-11 22:55:18 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:18 --> No database selected
+CRITICAL - 2022-04-11 22:55:18 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:31 --> No database selected
+CRITICAL - 2022-04-11 22:55:31 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:34 --> No database selected
+CRITICAL - 2022-04-11 22:55:34 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:58 --> No database selected
+CRITICAL - 2022-04-11 22:55:58 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:55:59 --> No database selected
+CRITICAL - 2022-04-11 22:55:59 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:56:26 --> No database selected
+CRITICAL - 2022-04-11 22:56:26 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:56:37 --> No database selected
+CRITICAL - 2022-04-11 22:56:37 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:56:52 --> No database selected
+CRITICAL - 2022-04-11 22:56:52 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:57:49 --> No database selected
+CRITICAL - 2022-04-11 22:57:49 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:57:53 --> No database selected
+CRITICAL - 2022-04-11 22:57:53 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:12 --> No database selected
+CRITICAL - 2022-04-11 22:59:12 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:12 --> No database selected
+CRITICAL - 2022-04-11 22:59:12 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:13 --> No database selected
+CRITICAL - 2022-04-11 22:59:13 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:13 --> No database selected
+CRITICAL - 2022-04-11 22:59:13 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:13 --> No database selected
+CRITICAL - 2022-04-11 22:59:13 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:13 --> No database selected
+CRITICAL - 2022-04-11 22:59:13 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:13 --> No database selected
+CRITICAL - 2022-04-11 22:59:13 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 22:59:14 --> No database selected
+CRITICAL - 2022-04-11 22:59:14 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 23:00:40 --> No database selected
+CRITICAL - 2022-04-11 23:00:40 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 23:01:36 --> No database selected
+CRITICAL - 2022-04-11 23:01:36 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 23:01:40 --> No database selected
+CRITICAL - 2022-04-11 23:01:40 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 23:05:19 --> No database selected
+CRITICAL - 2022-04-11 23:05:19 --> Call to a member function getResult() on bool
+#0 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#1 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#2 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#3 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#4 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-11 23:10:05 --> Error connecting to the database: Unknown database 'toko-api'
+CRITICAL - 2022-04-11 23:10:05 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'toko-api'
+#0 C:\xamppp\htdocs\toko-api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xamppp\htdocs\toko-api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xamppp\htdocs\toko-api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#7 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-11 23:10:31 --> Error connecting to the database: Unknown database 'toko-api'
+CRITICAL - 2022-04-11 23:10:31 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'toko-api'
+#0 C:\xamppp\htdocs\toko-api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xamppp\htdocs\toko-api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xamppp\htdocs\toko-api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#7 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-11 23:10:35 --> Error connecting to the database: Unknown database 'toko-api'
+CRITICAL - 2022-04-11 23:10:35 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'toko-api'
+#0 C:\xamppp\htdocs\toko-api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xamppp\htdocs\toko-api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xamppp\htdocs\toko-api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#7 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-11 23:10:36 --> Error connecting to the database: Unknown database 'toko-api'
+CRITICAL - 2022-04-11 23:10:36 --> Unable to connect to the database.
+Main connection [MySQLi]: Unknown database 'toko-api'
+#0 C:\xamppp\htdocs\toko-api\system\Database\BaseConnection.php(577): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xamppp\htdocs\toko-api\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xamppp\htdocs\toko-api\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xamppp\htdocs\toko-api\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#4 C:\xamppp\htdocs\toko-api\app\Controllers\RegistrasiController.php(22): CodeIgniter\BaseModel->findAll()
+#5 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(832): App\Controllers\RegistrasiController->index()
+#6 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#7 C:\xamppp\htdocs\toko-api\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xamppp\htdocs\toko-api\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-04-11 23:19:29 --> Column 'nama' cannot be null
+ERROR - 2022-04-11 23:19:53 --> Column 'nama' cannot be null
