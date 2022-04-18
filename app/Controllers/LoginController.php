@@ -4,21 +4,10 @@
   
  use App\Models\MLogin;
  use App\Models\MMember;
- use CodeIgniter\RESTful\ResourceController;
-  
+ 
  class LoginController extends RestfulController
  {
      
-    protected function responseHasil
-    ($code, $status, $data)
-    {
-        return $this->respond9([
-            'code' => $code,
-            'status' => $status,
-            'data' => $data,
-        ]);
-    }
-  
      public function login()
      {
          $email = $this->request->getVar('email');
